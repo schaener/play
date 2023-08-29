@@ -1,0 +1,17 @@
+{
+	"id": "wanganmr",
+	"name": "Wangan Midnight R",
+	"dongle":
+	{
+		"name": "wmr1vera.ic002"
+	},
+	"cdvd":
+	{
+		"name": "wmr1-a.chd"
+	},
+	"inputMode": "drive",
+	"boot": "ac0:AL3LOAD",
+	"patches":
+	[
+	]
+}

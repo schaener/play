@@ -1,0 +1,5 @@
+<Patches>
+	<Executable Name="SLES_501.76;1" Title="Oni" Region="EU">
+		<Patch Address="0x001cef7c" Value="0x00000000 // bc0f $001cef7c" Description="Fix hang by skip branch if copro 0 condition false." />
+	</Executable>
+</Patches>

@@ -1,0 +1,19 @@
+{
+	"id": "timecrs3u",
+	"parent": "timecrs3",
+	"name": "Time Crisis 3 (TST3 Ver. A)",
+	"dongle":
+	{
+		"name": "timecrs3u/tst3vera.ic002"
+	},
+	"cdvd":
+	{
+		"name": "tst1dvd0.chd"
+	},
+	"inputMode": "lightgun",
+	"lightGunXform": [ 660, 16053, 220, 16273 ],
+	"boot": "ac0:TC3LOAD",
+	"patches":
+	[
+	]
+}

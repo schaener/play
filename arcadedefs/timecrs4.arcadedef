@@ -1,0 +1,23 @@
+{
+	"id": "timecrs4",
+	"name": "Time Crisis 4",
+	"dongle":
+	{
+		"name": "tsf1002-na-a.ic002"
+	},
+	"hdd":
+	{
+		"name": "tsf1-ha.chd"
+	},
+	"buttons":
+	{
+		"3": "circle"
+	},
+	"inputMode": "lightgun",
+	"lightGunXform": [ -65535, 0, 65535, 0 ],
+	"eeFrequencyScale": [3, 2],
+	"boot": "ac0:TC4LOAD",
+	"patches":
+	[
+	]
+}

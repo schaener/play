@@ -1,0 +1,18 @@
+{
+	"id": "vnight",
+	"name": "Vampire Night",
+	"dongle":
+	{
+		"name": "vpn3verb.ic002"
+	},
+	"cdvd":
+	{
+		"name": "vpn1cd0.chd"
+	},
+	"inputMode": "lightgun",
+	"lightGunXform": [ 53000, 7000, -48146, 50321 ],
+	"boot": "ac0:VPNGAME",
+	"patches":
+	[
+	]
+}

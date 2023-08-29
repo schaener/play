@@ -1,0 +1,17 @@
+{
+	"id": "gdvsgdnx",
+	"name": "Mobile Suit Gundam - Gundam vs. Gundam Next",
+	"dongle":
+	{
+		"name": "gnx1001-na-a.ic002"
+	},
+	"hdd":
+	{
+		"name": "gnx100-1na-a.chd"
+	},
+	"eeFrequencyScale": [4, 3],
+	"boot": "ac0:GNXLOAD",
+	"patches":
+	[
+	]
+}
